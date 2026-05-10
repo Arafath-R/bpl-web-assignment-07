@@ -1,0 +1,152 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://c.ndtvimg.com/2025-12/hfv4r54_virat-kohli-century-afp_625x300_04_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 1500000
+    },
+    {
+        "playerId": 2,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1694772455873_AP23253372801044.jpg?type=hq",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 1250000
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-rounder",
+        "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2025/08/04/de0aed14-95c3-4b43-b389-5029300adbd9/ben-stokes.jpg?width=950&height=535",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 1625000
+    },
+    {
+        "playerId": 4,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1775708875437_RashidKhan.jpg?type=hq",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": 1400000
+    },
+    {
+        "playerId": 5,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "role": "Bowler",
+        "image": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/3ce4/live/13e071c0-e3a5-11ef-8450-ff58a15d40df.jpg",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 2050000
+    },
+    {
+        "playerId": 6,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "image": "https://static.toiimg.com/thumb/msid-105251489,width-1280,height-720,imgsize-43766,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 200000
+    },
+    {
+        "playerId": 7,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "role": "Wicketkeeper-Batsman",
+        "image": "https://c.files.bbci.co.uk/22b6/live/9e2f1330-9792-11f0-a4bc-e5c9e246a537.jpg",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 675000
+    },
+    {
+        "playerId": 8,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "role": "Bowler",
+        "image": "https://e0.365dm.com/15/07/2048x1152/Mitchell-Starc-Australia-2015_3321077.jpg?20150703131523",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 2475000
+    },
+    {
+        "playerId": 9,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "role": "Bowler",
+        "image": "https://img.ipl.com/upload/20251104/c12734a9b17d2149bf8c406f54930cb3.jpg",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 1200000
+    },
+    {
+        "playerId": 10,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "role": "All-rounder",
+        "image": "https://e0.365dm.com/23/11/1600x900/skysports-glenn-maxwell-australia_6352082.jpg?20250602082518",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": 1100000
+    },
+    {
+        "playerId": 11,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-rounder",
+        "image": "https://c.ndtvimg.com/2025-12/adcnqrng_shakib-al-hasan_625x300_08_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Slow left-arm orthodox",
+        "biddingPrice": 150000
+    },
+    {
+        "playerId": 12,
+        "name": "Jos Buttler",
+        "country": "England",
+        "role": "Wicketkeeper-Batsman",
+        "image": "https://icecric.news/wp-content/uploads/2026/02/JosButtler-1.jpg",
+        "battingType": "Right-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 1000000
+    },
+    {
+        "playerId": 13,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "role": "Bowler",
+        "image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1742381371045_Trent_Boult.jpg?type=mq",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": 800000
+    },
+    {
+        "playerId": 14,
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "image": "http://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1707837858139_davididiwww.jpeg?type=hq",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": 625000
+    },
+    {
+        "playerId": 15,
+        "name": "Hardik Pandya",
+        "country": "India",
+        "role": "All-rounder",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202505/hardik-pandya-224459679-16x9_0.jpg?VersionId=S.0fI.Qu6XhcIYS40QCqfiWuMtjA0eL8&size=690:388",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 1500000
+    }
+]
