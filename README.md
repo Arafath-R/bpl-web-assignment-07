@@ -20,7 +20,7 @@ Users can browse available players and add them to their team with a single clic
 The app includes a "Claim Free Credit" system that allows users to increase their balance. This virtual currency is integrated into the player selection process, requiring users to manage their budget strategically.
 
 ### 3. Responsive & Modern Design
-Featuring a dark-themed aesthetic, the project is fully responsive and optimized for both mobile and desktop. It includes a professional navbar, interactive player cards, and a newsletter subscription section.
+This project is fully responsive and optimized for both mobile and desktop. It includes a professional navbar, interactive player cards, and a newsletter subscription section.
 
 ---
 
