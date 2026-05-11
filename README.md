@@ -27,5 +27,4 @@ Featuring a dark-themed aesthetic, the project is fully responsive and optimized
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/Arafath-R/bpl-web-assignment-07.git](https://github.com/Arafath-R/bpl-web-assignment-07.git)
